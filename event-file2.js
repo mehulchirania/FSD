@@ -5,4 +5,4 @@ fs.readFile('To_Read.txt', 'utf8', function (err, data) {
     }
     console.log(data);
 });
-//Change test.sh file echo to 100%, create a file To_Read.txt & type industry in it
+//Change score.sh file echo to 100%, create a file To_Read.txt & type industry in it
